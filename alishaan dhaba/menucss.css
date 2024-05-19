@@ -1,0 +1,27 @@
+.container {
+    outline: 3px;
+    height: 199.5vh;
+    width: 33vw;
+    background-color:bisque;
+    
+    background-size: 1000px 975px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+body{
+    background-image: url('ty.jpg');
+    /* background-repeat: no-repeat;
+    background-size: 60vh 60vw; */
+}
+.container1 {
+    outline: 3px;
+    height: 100.5vh;
+    width: 33vw;
+    background-color:bisque;
+    
+    background-size: 1000px 975px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
